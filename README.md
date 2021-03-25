@@ -1,4 +1,5 @@
 cctv action recognition
 
-if direct cloning encounters with an error, please clone --depth=1
-git clone https://gitlab.com/nyamochirbold/cctv_action_recognition_project.git --depth=1
+결과 보고서 아래 첨부
+
+[[실무형 산학협력 프로젝트]SexyAI_결과보고서.pdf](https://github.com/dybalabak/4angle_cctv_recognition/files/6202182/SexyAI_.pdf)
