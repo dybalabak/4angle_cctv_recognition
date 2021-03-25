@@ -1,0 +1,8 @@
+tf-nightly
+matplotlib
+seaborn
+pandas
+numpy
+keras
+h5py
+opencv-python
